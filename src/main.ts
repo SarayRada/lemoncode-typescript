@@ -50,7 +50,7 @@ const isItActive = (active: boolean) => {
         return "Active"
    }
 }
-const groupstyle = "font-style: strong; font-size: 20px; background-color: green"
+const groupstyle = "font-weight: bold; font-size: 20px; background-color: green"
 
 console.log(`%c${beatles.name}`, groupstyle)
 console.log(`${beatles.foundationYear}/${isItActive(beatles.active)}/${beatles.musicalGenre}`)
