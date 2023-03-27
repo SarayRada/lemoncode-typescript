@@ -9,3 +9,8 @@ Pasos:
 - Ejecuta el sandbox con `npm run dev`.
 - Abre el navegador en `http://localhost:5173/` (si ese puerto no te funciona, mira en la consola donde has hecho el build, puede que este ocupado y se haya abierto en otro puerto).
 - Puedes empezar a meter tu código en el fichero:
+
+Aprendizajes:
+- En este ejercicio he aprendido ha utilizar ternarios [link](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+- He aprendido a utilizar estilos CSS en el console.log
+- He aprendido algunas diferencias entre Ts y Js
