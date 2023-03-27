@@ -43,12 +43,7 @@ const rolling: musicGroup = {
 }
 
 const isItActive = (active: boolean) => {
-    if (active == false) {
-        return "Non active"
-    }
-   else {
-        return "Active"
-   }
+    return active == true ? "Active" : "Non Active";
 }
 const groupstyle = "font-weight: bold; font-size: 20px; background-color: green"
 
